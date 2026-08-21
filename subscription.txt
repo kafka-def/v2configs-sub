@@ -4,3 +4,29 @@
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 21 августа 21:40 MSK
 vless://95c0b073-f0da-435d-bd5e-f43f453c4730@89.208.209.74:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&pbk=y7-4lvUXsMrTroNME_K3yrdwfQjcRCEp0aI3bl8x1VQ&sid=91412c46&fp=edge#🔥 Auto (рекомендуемый)
+hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#🇷🇺 ОБХОД БЛОКИРОВОК (V3)
+hysteria2://72eb6c8a75@srv-d458e9.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##1 🇷🇺 РФ Сервисы + YouTube (без рекламы)
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##2 🇷🇺 РФ Сервисы + YouTube (без рекламы)
+vless://41ff8aca-662f-4089-aba0-6eeec9e56f99@srv-11c590.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=s-PnxSvGZ5w7jnn-C9PB-7yiR379jzHHp5GONGIFAFk&fp=chrome&sni=dzen.ru&sid=f4f7bad90bc6717d&spx=/&path=/api/v1/557d3793&host=vk.com&mode=auto##1 🇬🇧 Англия
+hysteria2://c0fec23ea5@srv-11c590.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##2 🇬🇧 Англия
+hysteria2://3ec082d54e@srv-40a0eb.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##1 🇦🇹Австрия
+vless://6e041fea-26a9-4275-9a04-59b3e44b40da@srv-40a0eb.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=0mcwizX2DxUyjSG79oiXXRBTNOOAdGAT_sHg1Yb3Bng&fp=chrome&sni=ok.ru&sid=61220ee58ad99015&spx=/&path=/api/v1/557016e7&host=vk.com&mode=auto##2 🇦🇹Австрия
+vless://b080be92-bb28-443c-b586-c7ae3226fb0b@srv-d59c5e.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=riCxpMEu2PnvrtXxYZuo5d-hsBbxOWw5cH66LyBqXRA&fp=chrome&sni=dzen.ru&sid=c9d7edb48f2e07b4&spx=/&path=/api/v1/08a3d73b&host=vk.com&mode=auto##1 🇨🇦 Канада
+hysteria2://21b602d299@srv-d59c5e.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##2 🇨🇦 Канада
+vless://00e744be-73c9-4438-8faf-ecc121830916@srv-d18204.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=Ziu5YJ-rLTevFxkFJRF1jeMjLSpnG4GwwCRgT8cVRmA&fp=chrome&sni=mail.ru&sid=a91e45b08d54afd4&spx=/&path=/api/v1/9c8ca486&host=vk.com&mode=auto##1 🇨🇿 Чехия
+hysteria2://b6b5c90275@srv-d18204.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##2 🇨🇿 Чехия
+hysteria2://affe3bdd89@srv-31e49c.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##1 🇩🇪 Германия
+vless://438c2e34-5afd-4ee5-95ec-5753c7a5e6e0@srv-31e49c.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=e7dTXAPzb_tjP13OMP18I9rapJe26uXudlYV4NO6KDg&fp=chrome&sni=dl.google.com&sid=c00d207ed717bedd&spx=/&path=/api/v1/fde25b32&host=vk.com&mode=auto##2 🇩🇪 Германия
+hysteria2://94da72a096@srv-261193.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##3 🇩🇪 Германия
+vless://fd16af20-ca24-480f-ba8a-ec9c2d3c8351@srv-261193.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=DLFUAfFUBzHOpxDOE6VMJTaClBVBakQuJBaHwRksKgg&fp=chrome&sni=vk.com&sid=34f44d1b8b6eff50&spx=/&path=/api/v1/92ab5880&host=vk.com&mode=auto##4 🇩🇪 Германия
+hysteria2://628769f2e4@srv-8740ec.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##1 🇮🇹 Италия
+vless://f6d442a1-37ac-490a-bd2c-9d31dada557e@srv-8740ec.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=zxIS8yam21sHCVedlbNOzQwXO4P-fiUpqpKc_qsplnM&fp=chrome&sni=dzen.ru&sid=fddeca26523fa85c&spx=/&path=/api/v1/98ed1704&host=vk.com&mode=auto##2 🇮🇹 Италия
+hysteria2://fe6262e0bf@srv-5e3ad1.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##1 🇳🇱 Нидерланды
+vless://99e04c4d-e7a0-4399-8f94-965aea4aafcc@srv-3ec277.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=zfgBBm0D8dpfa1cY8yDQHV2GIg1PCTys2KgH1VSrAVw&fp=chrome&sni=dl.google.com&sid=fec69242dbd42b69&spx=/&path=/api/v1/0faded81&host=vk.com&mode=auto##2 🇳🇱 Нидерланды
+vless://e19d94b0-7b17-46aa-897c-ff977895292f@srv-c3da03.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=WHr7HVPQwdHPcgedMYl2UpkMXNsiagn49p55V3MOVmM&fp=chrome&sni=sberbank.ru&sid=293157078671a956&spx=/&path=/api/v1/f656b4c8&host=vk.com&mode=auto##1 🇷🇴 Румыния
+hysteria2://4975bfbe24@srv-c3da03.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##2 🇷🇴 Румыния
+hysteria2://d4f8d5e26b@srv-a04472.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##1 🇺🇸 Америка
+vless://194ad316-fd65-4e1b-a337-eb65c9ca68eb@srv-a04472.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=XW8pwP7ijTmc1QKtMGMvJ_hcnac2GIQ14o1ALhuTSlQ&fp=chrome&sni=gitlab.com&sid=4aa825e50078d7ef&spx=/&path=/api/v1/89cac742&host=vk.com&mode=auto##2 🇺🇸 Америка
+vless://3cee1765-f8aa-4469-8867-2813a620ad81@srv-12c1e0.21freedom.net:443?type=xhttp&encryption=none&security=reality&pbk=BbLiQ0m9AO6HAKUBHLUGgoIDVq14h3jIf3MItaBJnHg&fp=chrome&sni=dl.google.com&sid=449270d1da15dc64&spx=/&path=/api/v1/71536a6a&host=vk.com&mode=auto##3 🇺🇸 Америка
+hysteria2://49f8bb8047@srv-12c1e0.21freedom.net:11592?security=tls&fp=chrome&alpn=h3##4 🇺🇸 Америка
+vless://ca9620b2-e5bf-4efb-8544-95d8d95e91e9@cdn.e.frd21.ru:443?encryption=none&type=xhttp&path=/api/v3/8bf93d42b1d7&host=cdn.e.frd21.ru&mode=packet-up&extra={"mode":"packet-up","path":"/api/v3/8bf93d42b1d7","xmux":{"maxConcurrency":"4","maxConnections":0,"cMaxReuseTimes":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0},"seqKey":"page","sessionKey":"X-Auth-Token","xPaddingKey":"_dc","seqPlacement":"query","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","sessionPlacement":"header","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","xPaddingBytes":"100-1000"}&security=tls&sni=cdn.e.frd21.ru&fp=firefox&alpn=h2#🇷🇺 БЕЛЫЕ СПИСКИ
