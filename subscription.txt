@@ -3,3 +3,4 @@
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 21 августа 21:40 MSK
+vless://95c0b073-f0da-435d-bd5e-f43f453c4730@89.208.209.74:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&pbk=y7-4lvUXsMrTroNME_K3yrdwfQjcRCEp0aI3bl8x1VQ&sid=91412c46&fp=edge#🔥 Auto (рекомендуемый)
