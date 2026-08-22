@@ -2,7 +2,7 @@
 #profile-title: @V2keykonfig-sub
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
-#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 21 августа 21:40 MSK
+#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 23 августа 00:03 MSK
 vless://f7091306-5958-4c13-8d79-c74a135b7dd5@cdn4-67.cdn-vkvideo.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn4-67.cdn-vkvideo.com&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&sid=b0d8f964b7ac8ac0&fp=firefox#🇳🇱 Нидерланды #1 ⭐ Через РФ
 vless://f7091306-5958-4c13-8d79-c74a135b7dd5@cdn4-67.cdn-vkvideo.com:2053?encryption=none&type=xhttp&security=reality&sni=cdn4-67.cdn-vkvideo.com&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&sid=966eadda72000d7c&fp=firefox&path=/api/v1/video/chunk&mode=auto#🇳🇱 Нидерланды #2 ⭐ Через РФ
 vless://f7091306-5958-4c13-8d79-c74a135b7dd5@js.deliver.lightningcdn.cc:443?encryption=none&type=xhttp&security=tls&sni=js.deliver.lightningcdn.cc&path=/jsl/secure/encrypto-part.js&host=js.deliver.lightningcdn.cc&mode=packet-up&extra={"mode":"packet-up","path":"/jsl/secure/encrypto-part.js","xmux":{"cMaxLifetimeMs":0,"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0},"seqKey":"chunk_id","sessionKey":"X-Auth-Token","xPaddingKey":"_ym_uid","seqPlacement":"query","xPaddingBytes":"1-4","sessionIDTable":"Base62","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","sessionIDLength":"4-8","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"query","scMaxBufferedPosts":64,"scMaxEachPostBytes":"65536-131072","scMinPostsIntervalMs":"10-30"}#🇳🇱 🌐 Белые списки #1
