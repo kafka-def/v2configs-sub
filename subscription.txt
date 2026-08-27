@@ -3,22 +3,4 @@
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 23 августа 00:03 MSK
-vless://43c6343f-c5a1-4628-b26c-302369a45c04@13.143.128.197:443?encryption=none&type=ws&security=none#🇩🇪 Германия
-vless://43c6343f-c5a1-4628-b26c-302369a45c04@195.63.141.201:443?encryption=none&type=grpc&security=reality&sni=hartfordmedia.online&pbk=xq8_e5PNS7vubb8jzDOtfT2MnppCmzUPqXuDwg1xBm8&sid=9c9999f9&fp=edge&serviceName=tuning#🇳🇱 Нидерланды
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@ee1.nnmm.me:443?security=tls&sni=ee1.nnmm.me#🇪🇪 Эстония 🔎
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@sw.nnmm.me:443?security=tls&sni=sw.nnmm.me#🇨🇭 Швейцария
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@pl.nnmm.me:443?security=tls&sni=pl.nnmm.me#🇵🇱 Польша
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@uk1.nnmm.me:443?security=tls&sni=uk1.nnmm.me#🇬🇧 Лондон
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@no.nnmm.me:443?security=tls&sni=no.nnmm.me#🇳🇴 Норвегия
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@tu1.nnmm.me:443?security=tls&sni=tu1.nnmm.me#🇹🇷 Турция 🐌
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@fr.nnmm.me:443?security=tls&sni=fr.nnmm.me#🇫🇷 Франция (Резерв)
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@fi1.nnmm.me:443?security=tls&sni=fi1.nnmm.me#🇫🇮 Финляндия 🐌
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@us.nnmm.me:443?security=tls&sni=us.nnmm.me#🇺🇸 США
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@ja.nnmm.me:443?security=tls&sni=ja.nnmm.me#🇯🇵 Япония
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@ru1.nnmm.me:443?security=tls&sni=ru1.nnmm.me#🇷🇺 Россия
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@kz2.nnmm.me:443?security=tls&sni=kz2.nnmm.me#🇰🇿 Казахстан 🐌
-vless://94441268-50da-4452-a526-d55d5abbb3a2@213.219.212.12:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=z4.nnmm.me#🇪🇺 Обход¹
-vless://94441268-50da-4452-a526-d55d5abbb3a2@79.174.92.117:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=z.nnmm.me#🇪🇺 Обход² 🐌
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@46.8.210.155:443?security=tls&sni=zz.tgnn.live#🇷🇺 Обход³ 🐌🐌🔎 (Резерв)
-vless://94441268-50da-4452-a526-d55d5abbb3a2@176.109.87.102:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=z7.nnmm.me#🇪🇺 Обход⁴ (для видео)
-trojan://th4vv4Sd1nGD4GpkFGJ8YwjUrmh79sQZ@zz26.tgnn.live:443?security=tls&sni=zz26.tgnn.live#🇪🇺 Обход⁴ (для видео)
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.95:443?type=tcp&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇩🇪 #1 Германия | Reality
