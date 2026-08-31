@@ -4,19 +4,10 @@
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 23 августа 00:03 MSK
 
-vless://e50c7b44-52ec-4728-8d99-3f86bfd498e0@freefl.aiage.work:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=freefl.aiage.work&pbk=EqN5QtvWGccdkmL5ZNVDBRxRhWgr6g_vr3ABT8Q2dW4&sid=7b81f29ccab4da40&fp=firefox#🇫🇮 Finland-1
-vless://e50c7b44-52ec-4728-8d99-3f86bfd498e0@freede.aiage.work:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=freede.aiage.work&pbk=A_bQLZE6D32TJUdAf9doQTPaTUXyJjPXLSklplG4V1g&sid=5882662bb19cc4ec&fp=firefox#🇩🇪 Germany-1
-vless://e50c7b44-52ec-4728-8d99-3f86bfd498e0@freeus.aiage.work:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=freeus.aiage.work&pbk=pxLk0ocXqKYYqUFyALvH2BVXaswI-6NE00posKNayy0&sid=ccaf7283610c6fa8&fp=chrome#🇺🇸 USA-1
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@it.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=it.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c324fdcf18f3390e&fp=chrome#🇮🇹 Италия
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@nl2.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=3f9cc886565a08c9&fp=chrome#🇳🇱 Нидерланды
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@ch2.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=adc8372900bed89a&fp=chrome#🇨🇭 Швейцария
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@gateru.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gateru.janusgate.org&pbk=Zkjmoy79UuCGCS5_4fMfhv0lXDvgBjUTT7jCdQoWdQQ&sid=bbe7cea59ba5fc76&fp=qq#🇷🇺 Россия
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@dashboard.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dashboard.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=517c4ef7fb26746b&fp=chrome#🇫🇷 Франция
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@dk.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dk.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=fda2db43cf45470f&fp=chrome#🇩🇰 Дания
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@us.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=bbe7cea59ba5fc76&fp=chrome#🇺🇸 США
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@ee2.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee2.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=326e1983846eeab7&fp=chrome#🇪🇪 Эстония
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@210.kakadurov.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vyh.kakadurov.com&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=bbe7cea59ba5fc76&fp=firefox#🇫🇷 Франция [Обход БС LTE/WI-FI]
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@tr.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tr.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=d38eea587f1a4f68&fp=chrome#🇹🇷 Турция
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@chr.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=chr.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=bf26e6b6021935c6&fp=chrome#🇨🇭 Швейцария 2
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@bg.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=bg.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=05cf93ad9f36e28e&fp=chrome#🇧🇬 Болгария
-vless://6bb690db-3039-4869-8ee9-6534b2bfe020@nl.janusgate.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.janusgate.org&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=0b7688cb60960fb3&fp=chrome#🇳🇱 Нидерланды | Резерв
+vless://6b000e89-f327-43d7-bf6d-1ea8506daa4f@nl.crabby.network:443?encryption=none&type=tcp&security=reality&sni=nl.crabby.network&pbk=Ct_AJAXFtVCNdn4zZGTxu11U8-SI8OP6E9saLudXnAE&fp=firefox#🇳🇱 Нидерланды 🪄
+
+vless://6b000e89-f327-43d7-bf6d-1ea8506daa4f@de.crabby.network:443?encryption=none&type=tcp&security=reality&sni=de.crabby.network&pbk=I3Mrg6E09NovWPlSEDU_HXAd5J4741ni16wXq7gy2VI&fp=firefox#🇩🇪  Германия, Франкфурт 🪄
+
+vless://6b000e89-f327-43d7-bf6d-1ea8506daa4f@at.crabby.network:443?encryption=none&type=tcp&security=reality&sni=at.crabby.network&pbk=Ct_AJAXFtVCNdn4zZGTxu11U8-SI8OP6E9saLudXnAE&fp=firefox#🇦🇹 Австрия 🪄
+
+vless://6b000e89-f327-43d7-bf6d-1ea8506daa4f@kz.crabby.network:443?encryption=none&type=tcp&security=reality&sni=kz.crabby.network&pbk=I3Mrg6E09NovWPlSEDU_HXAd5J4741ni16wXq7gy2VI&fp=firefox#🇰🇿 Казахстан 🪄
