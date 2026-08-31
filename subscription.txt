@@ -4,11 +4,66 @@
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 23 августа 00:03 MSK
 
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@167.104.217.246:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl-246.atlanta-api.com&fp=edge&pbk=Eoposq769I1yGDD6PPsS-_FJ8dwKTJPc65VDZgzaj2c&sid=fad7e3b745b23e34#🇳🇱 Нидерланды 🔥
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@185.121.179.250:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-de2.mystatic-cdn.ru&fp=firefox&pbk=q1T5P4TRFFaZZhmz8UFJJ2F-otzU6Cl8uagvaytNUHY&sid=19d844ab15cc29d6#🇩🇪 Германия 🔥
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@193.160.71.250:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-uk2.mystatic-cdn.ru&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1#🇬🇧 Великобритания 🔥
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@50.7.33.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-fr2.mystatic-cdn.ru&fp=firefox&pbk=ZZwdN1Lt-fIR8A4Y1NbYCCEI6th2YXYHHRLHraVXyn0&sid=72461ccce5373103#🇫🇷 Франция 🔥
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@185.189.47.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-se.mystatic-cdn.ru&fp=firefox&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&sid=b21f41e79ecbac55#🇸🇪 Швеция 🔥
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@50.7.248.82:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-astde.mystatic-cdn.ru&fp=firefox&pbk=n4fBPJmg0A5jzAPG6QyAV61gxCuYqw5sStpAZixgxkA&sid=bc2f177e31b60023#🇵🇱 Польша 🔥
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@50.7.159.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-jp2.mystatic-cdn.ru&fp=firefox&pbk=Qeq99BW8Q4M2obG89q0-oJMTAzsrVgwgH237AC1-NH8&sid=0ee10657e84bbd30#🇯🇵 Япония 🔥
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@23.237.192.18:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-us2.mystatic-cdn.ru&fp=firefox&pbk=NvvQrD-Febpqip-6DM7al1RrjlwMzlEJzxCjtlgcu3Y&sid=b9ab7b4fadce963c#🇺🇸 США  🔥
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-de-4.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-de-4.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 Германия #4 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-fi-2.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-fi-2.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 Финляндия #2 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@plcdn3.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=plcdn3.zak-rkp.net#🇵🇱  Польша - 3
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@kinojp1.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinojp1.kinotorg.net#🇯🇵 Япония (Токио) - 1 🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@other.zak-rkp.net:443?encryption=none&type=ws&security=tls&sni=other.zak-rkp.net&path=/media/ws/#🇺🇸 США - 3
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@cdn.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=cdn.lucheeebezlimitnoekino.stream&path=/media/ws/#🇸🇪  Швеция - 575101
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-nl-5.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-nl-5.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇳🇱 Нидерланды #5 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@185.22.234.28:443?encryption=none&type=ws&security=tls&sni=exit-se-1.rog-self.co.uk&path=/ws/&host=exit-se-1.rog-self.co.uk#🇸🇪 Швеция #1 – 📶 LTE (I-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@nlcdn11.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=nlcdn11.zak-rkp.net#🇨🇳 Китай - 11  🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@nlcdn17.zak-rkp.net:443?encryption=none&type=ws&security=tls&sni=nlcdn17.zak-rkp.net&path=/media/ws/#🇳🇱  Нидерланды - 17
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@plcdn11.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=plcdn11.zak-rkp.net#🇵🇱  Польша - 11
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@194.55.239.220:443?encryption=none&type=ws&security=tls&sni=exit-de-1.rog-self.co.uk&path=/ws/&host=exit-de-1.rog-self.co.uk#🇩🇪 Германия #1 – 📶 LTE (L-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@78.159.250.170:443?encryption=none&type=ws&security=tls&sni=exit-se-1.rog-self.co.uk&path=/ws/&host=exit-se-1.rog-self.co.uk#🇸🇪 Швеция #1 – 📶 LTE (V-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-de-3.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-de-3.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 Германия #3 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@ficdn3.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=ficdn3.zak-rkp.net#🇫🇮  Финляндия - 3
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@plcdn2.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=plcdn2.zak-rkp.net#🇵🇱  Польша - 2
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@kinoveh1.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinoveh1.kinotorg.net#🇻🇮 Виргинские острова - 1 🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@185.22.234.28:443?encryption=none&type=ws&security=tls&sni=exit-nl-1.rog-self.co.uk&path=/ws/&host=exit-nl-1.rog-self.co.uk#🇳🇱 Нидерланды #1 – 📶 LTE (I-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@kinotj1.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinotj1.kinotorg.net#🇦🇲 Армения - 1 🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@decdn-20.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=decdn-20.zak-rkp.net#🇩🇪  Германия - 20
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@nl.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=nl.lucheeebezlimitnoekino.stream&path=/media/ws/#🇳🇱  Нидерланды - 307006
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@rucdn15.zak-rkp.net:443?encryption=none&type=ws&security=tls&sni=rucdn15.zak-rkp.net&path=/media/ws/#🇷🇺 Россия - 15 Игровой
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-se-4.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-4.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇸🇪 Швеция #4 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@top.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=top.lucheeebezlimitnoekino.stream&path=/media/ws/#🇦🇲 Армения - 203006
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@plcdn10.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=plcdn10.zak-rkp.net#🇵🇱  Польша - 10
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@ficdn13.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=ficdn13.zak-rkp.net#🇦🇲 Армения - 13
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@ficdn4.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=ficdn4.zak-rkp.net#🇫🇮  Финляндия - 4
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@78.159.250.170:443?encryption=none&type=ws&security=tls&sni=exit-de-1.rog-self.co.uk&path=/ws/&host=exit-de-1.rog-self.co.uk#🇩🇪 Германия #1 – 📶 LTE (V-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@185.22.234.28:443?encryption=none&type=ws&security=tls&sni=exit-fi-1.rog-self.co.uk&path=/ws/&host=exit-fi-1.rog-self.co.uk#🇫🇮 Финляндия #1 – 📶 LTE (I-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@best.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=best.lucheeebezlimitnoekino.stream&path=/media/ws/#🇩🇪  Германия - 305364
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-nl-2.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-nl-2.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇳🇱 Нидерланды #2 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@decdn-31.aiai-rkp.net:443?encryption=none&type=ws&security=tls&sni=decdn-31.aiai-rkp.net&path=/media/ws/#🇩🇪  Германия - 4
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@nlcdn18.zak-rkp.net:443?encryption=none&type=ws&security=tls&sni=nlcdn18.zak-rkp.net&path=/media/ws/#🇳🇱  Нидерланды - 18
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@trcdn3.kinotut.net:443?encryption=none&type=ws&security=tls&sni=trcdn3.kinotut.net&path=/media/ws/#🇹🇷  Турция - 3
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@plcdn18.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=plcdn18.zak-rkp.net#🇵🇱  Польша - 18
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@plcdn4.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=plcdn4.kinotorg.net#🇵🇱  Польша - 4
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-nl-2.rog-self.co.uk:443?encryption=none&type=ws&security=tls&sni=exit-nl-2.rog-self.co.uk&path=/ws/#🇳🇱 Нидерланды #2 – WS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@194.55.239.220:443?encryption=none&type=ws&security=tls&sni=exit-nl-1.rog-self.co.uk&path=/ws/&host=exit-nl-1.rog-self.co.uk#🇳🇱 Нидерланды #1 – 📶 LTE (L-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@194.55.239.220:443?encryption=none&type=ws&security=tls&sni=exit-fi-1.rog-self.co.uk&path=/ws/&host=exit-fi-1.rog-self.co.uk#🇫🇮 Финляндия #1 – 📶 LTE (L-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@185.22.234.28:443?encryption=none&type=ws&security=tls&sni=exit-de-1.rog-self.co.uk&path=/ws/&host=exit-de-1.rog-self.co.uk#🇩🇪 Германия #1 – 📶 LTE (I-WS)
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@secdn-107.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=secdn-107.zak-rkp.net#🇸🇪  Швеция - 107  🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@decdn27.zak-rkp.net:443?encryption=none&type=ws&security=tls&sni=decdn27.zak-rkp.net&path=/media/ws/#🇩🇪  Германия - 27
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-se-3.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-3.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇸🇪 Швеция #3 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-de-2.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-de-2.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇩🇪 Германия #2 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@lvcdn3.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=lvcdn3.zak-rkp.net#🇦🇱  Албания - 3
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@tr.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=tr.lucheeebezlimitnoekino.stream&path=/media/ws/#🇹🇷  Турция - 355780
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@captcha.lucheeebezlimitnoekino.stream:443?encryption=none&type=ws&security=tls&sni=captcha.lucheeebezlimitnoekino.stream&path=/media/ws/#🇸🇪  Швеция - 560913
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@kinoam1.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinoam1.kinotorg.net#🇦🇲 Армения - 4 🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@aucdn2.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=aucdn2.zak-rkp.net#🇦🇲 Армения - 2 🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@secdn11.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=secdn11.zak-rkp.net#🇸🇪  Швеция - 11
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@kinonl10.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinonl10.kinotorg.net#🇦🇱 Албания - 10  🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-nl-3.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-nl-3.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇳🇱 Нидерланды #3 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-fi-4.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-fi-4.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 Финляндия #4 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@popular.zak-rkp.net:443?encryption=none&type=ws&security=tls&sni=popular.zak-rkp.net&path=/media/ws/#🇺🇸 США - 1
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-nl-4.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-nl-4.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇳🇱 Нидерланды #4 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@alcdn3.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=alcdn3.zak-rkp.net#🇦🇲 Армения - 3🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@ficdn19.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=ficdn19.zak-rkp.net#🇦🇲 Армения - 19
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-se-2.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-2.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇸🇪 Швеция #2 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@kinocn1.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinocn1.kinotorg.net#🇨🇳 Китай (Пекин) - 1 🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@kinoveh2.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinoveh2.kinotorg.net#🇻🇮 Виргинские острова - 2 🚀
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@exit-fi-3.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-fi-3.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#🇫🇮 Финляндия #3 – TLS
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@decdn-30.aiai-rkp.net:443?encryption=none&type=ws&security=tls&sni=decdn-30.aiai-rkp.net&path=/media/ws/#🇩🇪  Германия - 3
+vless://c7748dfa-5918-42f4-8133-a8b99eae8da3@194.55.239.220:443?encryption=none&type=ws&security=tls&sni=exit-se-1.rog-self.co.uk&path=/ws/&host=exit-se-1.rog-self.co.uk#🇸🇪 Швеция #1 – 📶 LTE (L-WS)
