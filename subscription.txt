@@ -2,7 +2,7 @@
 #profile-title: @V2keykonfig-sub
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
-#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено 23 августа 00:03 MSK
+#announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  1 сентября 21:21 MSK
 vless://8a0ce3d4-b9f3-4b86-b795-0ffae218c2fa@at.organic-cdn.net:443?encryption=none&type=grpc&security=tls&sni=gr.convexia.net&serviceName=grpc#Austria 🇦🇹 (Новые блокировки)
 vless://8a0ce3d4-b9f3-4b86-b795-0ffae218c2fa@at.organic-cdn.net:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=at.convexia.net&pbk=dAywk2CpVoA14GcQBWxgkamea0yaLkF6jUmy4--vHAU&sid=fd&fp=qq#Austria 🇦🇹
 vless://8a0ce3d4-b9f3-4b86-b795-0ffae218c2fa@ru.organic-cdn.net:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru.convexia.net&pbk=EMgNyAW6z8-eamAPLwVgd509TqYRg8gvupUzmZv_4Uc&sid=f425&fp=qq#Russia 🇷🇺 YouTube 🌱 No ads 📞 Discord
