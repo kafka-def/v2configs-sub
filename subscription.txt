@@ -3,6 +3,14 @@
 #profile-update-interval: 1
 #support-url: t.me/KFCElmir
 #announce: Не работает? Обновите подписку // Автор @KFCElmir // обновлено  1 сентября 23:42 MSK
+vless://f0fb771d-ebff-478d-89ad-3490bfd7ee8b@cl1.yandex-api.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cl1.yandex-api.com&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&fp=firefox#🇫🇮Финляндия⭐️🏠
+vless://f0fb771d-ebff-478d-89ad-3490bfd7ee8b@ruself.yandex-api.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ruself.yandex-api.com&pbk=c8IEc_c_QBmI5YAwILoVH0xw2xC4AJgJDKEYKcmKogo&sid=7f2e9c4b1a8d6e55&fp=edge#🇷🇺Россия 🎬YouTube H2⚡️
+vless://f0fb771d-ebff-478d-89ad-3490bfd7ee8b@94.141.162.51:443?encryption=none&type=grpc&security=reality&sni=rutube.ru&pbk=KQASJC-erEvv8cgBbvJRMfHq0Z0TApsQUNtdSwl0YQY&sid=8f3e9c4b1a8d6e21&fp=chrome&serviceName=grpc-service#🇷🇺Россия 🎬YouTube ⭐️
+vless://f0fb771d-ebff-478d-89ad-3490bfd7ee8b@nl3.n.belka.network:443?encryption=none&type=grpc&security=reality&sni=rutube.ru&pbk=KQASJC-erEvv8cgBbvJRMfHq0Z0TApsQUNtdSwl0YQY&sid=8f3e9c4b1a8d6e21&fp=chrome&serviceName=grpc-service#🇳🇱Нидерланды GRPC⚡️🏠
+vless://f0fb771d-ebff-478d-89ad-3490bfd7ee8b@fi.n.belka.network:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI&sid=7f2e9c4b1a8d6e53&fp=edge#🇫🇮Финляндия TCP⭐️🏠
+vless://f0fb771d-ebff-478d-89ad-3490bfd7ee8b@se.belka.network:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yahoo.com&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI&sid=7f2e9c4b1a8d6e53&fp=firefox#🇸🇪Швеция TCP⭐️🏠
+vless://f0fb771d-ebff-478d-89ad-3490bfd7ee8b@95.163.232.208:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&fp=firefox#LTE 9 - 🇳🇱 Нидерланды: X5 Расход
+vless://f0fb771d-ebff-478d-89ad-3490bfd7ee8b@de.bal.belka.network:443?encryption=none&type=grpc&security=reality&sni=rutube.ru&pbk=KQASJC-erEvv8cgBbvJRMfHq0Z0TApsQUNtdSwl0YQY&sid=8f3e9c4b1a8d6e21&fp=chrome&serviceName=grpc-service#LTE-8 🇩🇪 Германия: X15 Расход траф
 vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:443?encryption=none&type=grpc&security=reality&sni=manjaro.ubuntuhosting.host&pbk=zf3ef0JigS7_dPvUs19tqLTznInJdI1KH1vRE15f3Fk&sid=3a2c&fp=chrome&serviceName=gun#🇪🇺 Авто | Европа | WIFI
 vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11447?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=3b149d533a&fp=edge&serviceName=gun#🇪🇺 Авто | Европа | WIFI
 vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11445?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=61&fp=edge&serviceName=gun#🇪🇺 Авто | Европа | WIFI
